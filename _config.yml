@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "ko_KR"
-title                    : "Jinju Lee"
+title                    : "Jinju Lee | Dev. Blog"
 title_separator          : "|"
 name                     : "Jinju Lee"
 description              : "Dev. Blog"
@@ -103,9 +103,9 @@ analytics:
 author:
   name             : "Jinu Lee"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  bio              : "On process to be a good developer"
+  location         : "Seoul, S. Korea"
+  email            : "jinjuleekr.gmail.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
@@ -114,7 +114,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "github.com/jinjuleekr"
   gitlab           :
   google_plus      :
   keybase          :
